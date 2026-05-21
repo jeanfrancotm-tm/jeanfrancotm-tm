@@ -9,7 +9,7 @@ Currently building:
 - Cloud & Big Data Knowledge
 
 ## ⚡ Tech
-Python • SQL • Pandas • Power BI • Git • Oracle • ETL
+Python • SQL • Pandas • Pyspark• Azure Data Factory • Power BI • Git • Oracle • ETL
 
 ## 🌱 Learning
 PySpark • Azure • Databricks • Data Warehousing
