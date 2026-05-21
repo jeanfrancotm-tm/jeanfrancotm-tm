@@ -16,6 +16,6 @@ PySpark • Azure • Databricks • Data Warehousing
 
 ## 📫 Goals
 Especializarme como Data Engineer y obtener las siguientes certificaciones:
+
 -Microsoft Certified: Microsoft DP-750 Azure Databricks Data Engineer
- -Databricks Certified: Data Engineer Associate
-.
+-Databricks Certified: Data Engineer Associate
